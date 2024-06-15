@@ -7,6 +7,7 @@
 <pos=10%><#00FFFF>Ivy_B13
 <pos=10%><#FF7B08>Jay30~
 <pos=10%><#4F7124>Kamare
+<pos=10%><#48D1CC>Kazukaru
 <pos=10%><#800080>Royaltyǃ
 <#0000FF>EXTRA FLEXIBLE - TIER 2
 <pos=10%>Archaios
