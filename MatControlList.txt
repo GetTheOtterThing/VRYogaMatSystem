@@ -44,6 +44,17 @@
         "SecondarymatTexture": 11,
     },
     {
+        "DisplayName": "UnholyLily",
+        "OnMatDisplayName": "UnholyLily",
+        "MatColor": "#79AA9FFF",
+        "IconColor": "#79AA9FFF",
+        "HasTextureSupport": true,
+        "HasColorSupport": true,
+        "HasAdditionalColorSupport": true,
+        "matTexture": 10,
+        "SecondarymatTexture": 11,
+    },
+    {
         "DisplayName": "Jay30~",
         "OnMatDisplayName": "Jay30~",
         "MatColor": "#79AA9FFF",
