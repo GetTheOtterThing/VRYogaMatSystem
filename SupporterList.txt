@@ -5,6 +5,7 @@
 <pos=10%><#F57F18>Above or Beyond
 <pos=10%><#000080>Aldrinor
 <pos=10%><#FF69B4>AzinTheWizard
+<pos=10%><#8A2BE2>Corvus Faolain
 <pos=10%><#00FFFF>Ivy_B13
 <pos=10%><#FF7B08>Jay30~
 <pos=10%><#4F7124>Kamare
