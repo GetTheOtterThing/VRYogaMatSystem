@@ -55,6 +55,17 @@
         "SecondarymatTexture": 11,
     },
     {
+        "DisplayName": "SleeperNarwhal",
+        "OnMatDisplayName": "SleeperNarwhal",
+        "MatColor": "#79AA9FFF",
+        "IconColor": "#79AA9FFF",
+        "HasTextureSupport": false,
+        "HasColorSupport": true,
+        "HasAdditionalColorSupport": false,
+        "matTexture": 10,
+        "SecondarymatTexture": 11,
+    },
+    {
         "DisplayName": "kazukaru",
         "OnMatDisplayName": "kazukaru",
         "MatColor": "#79AA9FFF",
