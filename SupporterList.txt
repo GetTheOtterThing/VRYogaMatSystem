@@ -23,6 +23,7 @@
 <pos=10%>Ammy Star
 <pos=10%>Chardora
 <pos=10%>ChibityIcee
+<pos=10%>fluffy ΘωΘ
 <pos=10%>LEUCi5
 <pos=10%>Mythology
 <pos=10%>RJ_Kon
