@@ -55,6 +55,17 @@
         "SecondarymatTexture": 11,
     },
     {
+        "DisplayName": "LycanLeslie",
+        "OnMatDisplayName": "LycanLeslie",
+        "MatColor": "#79AA9FFF",
+        "IconColor": "#79AA9FFF",
+        "HasTextureSupport": false,
+        "HasColorSupport": true,
+        "HasAdditionalColorSupport": false,
+        "matTexture": 10,
+        "SecondarymatTexture": 11,
+    },
+    {
         "DisplayName": "fluffy ΘωΘ",
         "OnMatDisplayName": "fluffy ΘωΘ",
         "MatColor": "#79AA9FFF",
