@@ -40,5 +40,6 @@
 <pos=10%>Lunardoge
 <pos=10%>shepherdsnow
 <pos=10%>TacoTrucker
-<pos=10%>Wyld
+<pos=10%>uppermgt
+<pos=10%>WyldWyn
 <pos=10%>YourFavFem
