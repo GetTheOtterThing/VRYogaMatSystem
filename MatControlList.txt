@@ -79,8 +79,8 @@
     {
         "DisplayName": "fluffy ΘωΘ",
         "OnMatDisplayName": "fluffy ΘωΘ",
-        "MatColor": "#79AA9FFF",
-        "IconColor": "#79AA9FFF",
+        "MatColor": "#330000",
+        "IconColor": "#77ffff",
         "HasTextureSupport": false,
         "HasColorSupport": true,
         "HasAdditionalColorSupport": false,
