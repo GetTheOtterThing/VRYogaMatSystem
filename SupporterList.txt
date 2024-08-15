@@ -4,6 +4,7 @@
 <size=120%><#FFFF00>ONE WITH THE FLOOR - TIER 3
 <pos=10%><#F57F18>Above or Beyond
 <pos=10%><#FF69B4>AzinTheWizard
+<pos=10%><#DC143C>Chardora
 <pos=10%><#8A2BE2>Corvus Faolain
 <pos=10%><#B200ED>DiriOfTheWind
 <pos=10%><#FF69B4>FuwaXFuwa
@@ -22,7 +23,6 @@
 <#00FF00>STUDENTS - TIER 1
 <pos=10%>Aldrinor
 <pos=10%>Ammy Star
-<pos=10%>Chardora
 <pos=10%>ChibityIcee
 <pos=10%>fluffy ΘωΘ
 <pos=10%>LEUCi5
