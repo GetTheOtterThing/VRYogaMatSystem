@@ -13,6 +13,7 @@
 <pos=10%><#4F7124>Kamare
 <pos=10%><#008080>Kazukaru
 <pos=10%><#800080>Royaltyǃ
+<pos=10%><#87CEEB>TeaVirus
 <pos=10%><#DC143C>UnholyLily
 <#0000FF>EXTRA FLEXIBLE - TIER 2
 <pos=10%>Archaios
@@ -30,7 +31,6 @@
 <pos=10%>Mythology
 <pos=10%>RJ_Kon
 <pos=10%>SleeperNarwhal
-<pos=10%>TeaVirus
 <size=120%><u><b>DONORS</b></u>
 <pos=10%><#0000FF>T<#FFA500>r<#0000FF>a<#FFA500>a<#0000FF>k<#FFA500>k<#0000FF>i
 <#FFFFFF><pos=10%>Beowulf
