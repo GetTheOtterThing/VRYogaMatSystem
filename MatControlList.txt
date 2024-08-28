@@ -83,7 +83,7 @@
         "IconColor": "#77ffff",
         "HasTextureSupport": false,
         "HasColorSupport": true,
-        "HasAdditionalColorSupport": false,
+        "HasAdditionalColorSupport": true,
         "matTexture": 10,
         "SecondarymatTexture": 11,
     },
