@@ -27,7 +27,6 @@
 <pos=10%>fluffy ΘωΘ
 <pos=10%>LEUCi5
 <pos=10%>LycanLeslie
-<pos=10%>Mythology
 <pos=10%>RJ_Kon
 <pos=10%>SleeperNarwhal
 <size=120%><u><b>DONORS</b></u>
@@ -38,6 +37,7 @@
 <pos=10%>FuwaXFuwa
 <pos=10%>Hella_Faith
 <pos=10%>Lunardoge
+<pos=10%>Mythology
 <pos=10%>shepherdsnow
 <pos=10%>TacoTrucker
 <pos=10%>uppermgt
