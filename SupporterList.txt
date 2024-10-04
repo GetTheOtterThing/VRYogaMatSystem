@@ -9,7 +9,6 @@
 <pos=10%><#00FFFF>Ivy_B13
 <pos=10%><#FF7B08>Jay30~
 <pos=10%><#4F7124>Kamare
-<pos=10%><#008080>Kazukaru
 <pos=10%><#0196FF>Lycan<#FF59CE>Leslie
 <pos=10%><#800080>Royaltyǃ
 <pos=10%><#87CEEB>TeaVirus
@@ -37,6 +36,7 @@
 <pos=10%>Fang Avante
 <pos=10%>FuwaXFuwa
 <pos=10%>Hella_Faith
+<pos=10%>Kazukaru
 <pos=10%>Lunardoge
 <pos=10%>Mythology
 <pos=10%>shepherdsnow
