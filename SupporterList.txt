@@ -10,6 +10,7 @@
 <pos=10%><#FF7B08>Jay30~
 <pos=10%><#4F7124>Kamare
 <pos=10%><#0196FF>Lycan<#FF59CE>Leslie
+<pos=10%><#8F00FF>Nocteel
 <pos=10%><#800080>Royaltyǃ
 <pos=10%><#87CEEB>TeaVirus
 <#0000FF>EXTRA FLEXIBLE - TIER 2
@@ -24,7 +25,6 @@
 <pos=10%>ChibityIcee
 <pos=10%>fluffy ΘωΘ
 <pos=10%>LEUCi5
-<pos=10%>Nocteel
 <pos=10%>RJ_Kon
 <pos=10%>SleeperNarwhal
 <size=120%><u><b>DONORS</b></u>
