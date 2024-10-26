@@ -332,13 +332,13 @@
     {
         "DisplayName": "Nocteel",
         "OnMatDisplayName": "Nocteel",
-        "MatColor": "#79AA9FFF",
-        "IconColor": "#79AA9FFF",
+        "MatColor": "#0022FF",
+        "IconColor": "#BAE8E1",
         "HasTextureSupport": true,
         "HasColorSupport": true,
         "HasAdditionalColorSupport": true,
-        "matTexture": 10,
-        "SecondarymatTexture": 11,
+        "matTexture": 02,
+        "SecondarymatTexture": 14,
     },
     {
         "DisplayName": "Inkblitz",
