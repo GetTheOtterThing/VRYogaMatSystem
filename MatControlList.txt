@@ -313,7 +313,7 @@
         "MatColor": "#79AA9FFF",
         "IconColor": "#79AA9FFF",
         "HasTextureSupport": false,
-        "HasColorSupport": true,
+        "HasColorSupport": false,
         "HasAdditionalColorSupport": false,
         "matTexture": 10,
         "SecondarymatTexture": 11,
