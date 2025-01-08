@@ -2,7 +2,6 @@
 <size=180%>KO-FI.COM/VRYOGA
 <size=150%><#9235E5><u><b>SUBSCRIBERS</b></u>
 <size=120%><#FFFF00>ONE WITH THE FLOOR - TIER 3
-<pos=10%><#F57F18>Above or Beyond
 <pos=10%><#FF69B4>AzinTheWizard
 <pos=10%><#DC143C>Chardora
 <pos=10%><#B200ED>DiriOfTheWind
@@ -23,13 +22,14 @@
 <#00FF00>STUDENTS - TIER 1
 <pos=10%>Aldrinor
 <pos=10%>Ammy Star
+<pos=10%>Autumn-Lilac
 <pos=10%>ChibityIcee
 <pos=10%>fluffy ΘωΘ
 <pos=10%>LEUCi5
 <pos=10%>SleeperNarwhal
 <size=120%><u><b>DONORS</b></u>
 <pos=10%><#0000FF>T<#FFA500>r<#0000FF>a<#FFA500>a<#0000FF>k<#FFA500>k<#0000FF>i
-<#FFFFFF><pos=10%>Beowulf . Corvus Faolain
+<#FFFFFF><pos=10%>Above Or Beyond . Beowulf . Corvus Faolain
 <pos=10%>Endasil . Fang Avante
 <pos=10%>FuwaXFuwa . Hella_Faith
 <pos=10%>Kazukaru . Lunardoge
