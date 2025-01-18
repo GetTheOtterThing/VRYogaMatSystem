@@ -9,6 +9,7 @@
 <pos=10%><#FF7B08>Jay30~
 <pos=10%><#4F7124>Kamare
 <pos=10%><#0196FF>Lycan<#FF59CE>Leslie
+<pos=10%><#8F00FF>MidnightExlipse
 <pos=10%><#8F00FF>Nocteel
 <pos=10%><#800080>Royaltyǃ
 <pos=10%><#87CEEB>TeaVirus
