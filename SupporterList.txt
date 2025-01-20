@@ -20,6 +20,7 @@
 <pos=10%>Inkblitz
 <pos=10%>★ Kima ★
 <pos=10%>Robokitsune
+<pos=10%>Sirdeadduke
 <#00FF00>STUDENTS - TIER 1
 <pos=10%>Aldrinor
 <pos=10%>Ammy Star
