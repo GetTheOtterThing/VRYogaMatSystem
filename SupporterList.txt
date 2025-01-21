@@ -21,6 +21,7 @@
 <pos=10%>★ Kima ★
 <pos=10%>Robokitsune
 <pos=10%>Sirdeadduke
+<pos=10%>Vawkis
 <#00FF00>STUDENTS - TIER 1
 <pos=10%>Aldrinor
 <pos=10%>Ammy Star
