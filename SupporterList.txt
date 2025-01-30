@@ -8,6 +8,7 @@
 <pos=10%><#00FFFF>Ivy_B13
 <pos=10%><#FF7B08>Jay30~
 <pos=10%><#4F7124>Kamare
+<pos=10%><#C49E78>LunarFauxed
 <pos=10%><#0196FF>Lycan<#FF59CE>Leslie
 <pos=10%><#8F00FF>MidnightExlipse
 <pos=10%><#8F00FF>Nocteel
@@ -32,10 +33,10 @@
 <pos=10%>SleeperNarwhal
 <size=120%><u><b>DONORS</b></u>
 <pos=10%><#0000FF>T<#FFA500>r<#0000FF>a<#FFA500>a<#0000FF>k<#FFA500>k<#0000FF>i
-<#FFFFFF><pos=10%>Above Or Beyond . Beowulf . Corvus Faolain
-<pos=10%>Endasil . Fang Avante
-<pos=10%>FuwaXFuwa . Hella_Faith
-<pos=10%>Kazukaru . Lunardoge
+<#FFFFFF><pos=10%>Above Or Beyond . Beowulf
+<pos=10%>Corvus Faolain . Endasil
+<pos=10%>Fang Avante . FuwaXFuwa
+<pos=10%>Hella_Faith . Kazukaru
 <pos=10%>Mythology . RJ_Kon
 <pos=10%>shepherdsnow . TacoTrucker
 <pos=10%>UnholyLily . uppermgt
