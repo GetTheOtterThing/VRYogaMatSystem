@@ -30,6 +30,7 @@
 <pos=10%>ChibityIcee
 <pos=10%>fluffy ΘωΘ
 <pos=10%>LEUCi5
+<pos=10%>Phyrebird
 <pos=10%>SleeperNarwhal
 <size=120%><u><b>DONORS</b></u>
 <pos=10%><#0000FF>T<#FFA500>r<#0000FF>a<#FFA500>a<#0000FF>k<#FFA500>k<#0000FF>i
