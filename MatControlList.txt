@@ -180,7 +180,7 @@
         "OnMatDisplayName": "Vawkis",
         "MatColor": "#79AA9FFF",
         "IconColor": "#79AA9FFF",
-        "HasTextureSupport": false,
+        "HasTextureSupport": true,
         "HasColorSupport": true,
         "HasAdditionalColorSupport": true,
         "matTexture": 10,

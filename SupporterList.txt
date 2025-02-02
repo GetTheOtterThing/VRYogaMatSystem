@@ -14,6 +14,7 @@
 <pos=10%><#8F00FF>Nocteel
 <pos=10%><#800080>Royaltyǃ
 <pos=10%><#87CEEB>TeaVirus
+<pos=10%><#8B0000>Vawkis
 <#0000FF>EXTRA FLEXIBLE - TIER 2
 <pos=10%>Archaios
 <pos=10%>Atoc
@@ -22,7 +23,6 @@
 <pos=10%>★ Kima ★
 <pos=10%>Robokitsune
 <pos=10%>Sirdeadduke
-<pos=10%>Vawkis
 <#00FF00>STUDENTS - TIER 1
 <pos=10%>Aldrinor
 <pos=10%>Ammy Star
