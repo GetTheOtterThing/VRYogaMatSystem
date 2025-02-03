@@ -18,6 +18,7 @@
 <#0000FF>EXTRA FLEXIBLE - TIER 2
 <pos=10%>Archaios
 <pos=10%>Atoc
+<pos=10%>Autumn-Lilac
 <pos=10%>Drolgurd
 <pos=10%>Inkblitz
 <pos=10%>★ Kima ★
@@ -26,7 +27,6 @@
 <#00FF00>STUDENTS - TIER 1
 <pos=10%>Aldrinor
 <pos=10%>Ammy Star
-<pos=10%>Autumn-Lilac
 <pos=10%>ChibityIcee
 <pos=10%>fluffy ΘωΘ
 <pos=10%>Jespe_zee
