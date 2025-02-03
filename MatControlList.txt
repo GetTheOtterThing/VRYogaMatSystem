@@ -39,7 +39,7 @@
         "IconColor": "#79AA9FFF",
         "HasTextureSupport": false,
         "HasColorSupport": true,
-        "HasAdditionalColorSupport": false,
+        "HasAdditionalColorSupport": true,
         "matTexture": 10,
         "SecondarymatTexture": 11,
     },
