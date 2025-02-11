@@ -20,6 +20,7 @@
 <pos=10%>Atoc
 <pos=10%>Autumn-Lilac
 <pos=10%>Drolgurd
+<pos=10%>FuwaXFuwa_
 <pos=10%>Inkblitz
 <pos=10%>★ Kima ★
 <pos=10%>Robokitsune
@@ -37,7 +38,7 @@
 <pos=10%><#0000FF>T<#FFA500>r<#0000FF>a<#FFA500>a<#0000FF>k<#FFA500>k<#0000FF>i
 <#FFFFFF><pos=10%>Above Or Beyond . Beowulf
 <pos=10%>Corvus Faolain . Endasil
-<pos=10%>Fang Avante . FuwaXFuwa
+<pos=10%>Fang Avante
 <pos=10%>Hella_Faith . Kazukaru
 <pos=10%>Mythology . RJ_Kon
 <pos=10%>shepherdsnow . TacoTrucker
