@@ -154,8 +154,8 @@
         "SecondarymatTexture": 11,
     },
     {
-        "DisplayName": "Drolgurd",
-        "OnMatDisplayName": "Drolgurd",
+        "DisplayName": "Whias",
+        "OnMatDisplayName": "Whias",
         "MatColor": "#79AA9FFF",
         "IconColor": "#79AA9FFF",
         "HasTextureSupport": false,
