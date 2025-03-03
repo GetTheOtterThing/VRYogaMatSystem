@@ -354,8 +354,8 @@
     {
         "DisplayName": "Jespe_zee",
         "OnMatDisplayName": "Jespe_zee",
-        "MatColor": "#79AA9FFF",
-        "IconColor": "#79AA9FFF",
+        "MatColor": "#355E3B",
+        "IconColor": "#87CEEB",
         "HasTextureSupport": false,
         "HasColorSupport": true,
         "HasAdditionalColorSupport": false,
