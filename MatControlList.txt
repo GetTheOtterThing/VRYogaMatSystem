@@ -1,11 +1,11 @@
 [
     {
-        "DisplayName": "Placeholder",
-        "OnMatDisplayName": "Placeholder",
+        "DisplayName": "JustJaime",
+        "OnMatDisplayName": "JustJaime",
         "MatColor": "#79AA9FFF",
         "IconColor": "#79AA9FFF",
         "HasTextureSupport": false,
-        "HasColorSupport": false,
+        "HasColorSupport": true,
         "HasAdditionalColorSupport": false,
         "matTexture": 10,
         "SecondarymatTexture": 11,
