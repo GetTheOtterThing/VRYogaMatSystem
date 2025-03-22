@@ -21,13 +21,14 @@
 <pos=10%>Whias
 <#00FF00>STUDENTS - TIER 1
 <pos=10%>Aldrinor
+<pos=10%>Ammy Star
 <pos=10%>Hugo Sigil
 <pos=10%>Jespe_zee
 <pos=10%>JustJaime
 <pos=10%>Phyrebird
 <size=120%><u><b>DONORS</b></u>
 <pos=10%><#0000FF>T<#FFA500>r<#0000FF>a<#FFA500>a<#0000FF>k<#FFA500>k<#0000FF>i
-<#FFFFFF><size=75%><pos=10%>Above Or Beyond . Ammy Star . Atoc . Beowulf
+<#FFFFFF><size=75%><pos=10%>Above Or Beyond . Atoc . Beowulf
 <pos=10%>Chardora . ChibityIcee . Corvus Faolain
 <pos=10%>DiriOftheWind. Drolgurd
 <pos=10%>Endasil . Fang Avante . fluffy ΘωΘ
