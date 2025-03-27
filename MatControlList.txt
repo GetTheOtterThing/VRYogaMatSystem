@@ -2,8 +2,8 @@
     {
         "DisplayName": "JustJaime",
         "OnMatDisplayName": "JustJaime",
-        "MatColor": "#79AA9FFF",
-        "IconColor": "#79AA9FFF",
+        "MatColor": "#EEBFFF",
+        "IconColor": "#FFFFFF",
         "HasTextureSupport": false,
         "HasColorSupport": true,
         "HasAdditionalColorSupport": false,
