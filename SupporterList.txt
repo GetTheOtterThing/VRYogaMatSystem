@@ -8,6 +8,7 @@
 <pos=10%><#8F00FF>MidnightExlipse
 <pos=10%><#8F00FF>Nocteel
 <pos=10%><#800080>Royaltyǃ
+<pos=10%><#DAA520>RyeBreadDragon
 <pos=10%><#87CEEB>TeaVirus
 <pos=10%><#8B0000>Vawkis
 <#0000FF>EXTRA FLEXIBLE - TIER 2
