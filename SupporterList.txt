@@ -2,7 +2,6 @@
 <size=180%>KO-FI.COM/VRYOGA
 <size=150%><#9235E5><u><b>SUBSCRIBERS</b></u>
 <size=120%><#FFFF00>ONE WITH THE FLOOR - TIER 3
-<pos=10%><#FF69B4>AzinTheWizard
 <pos=10%><#4F7124>Kamare
 <pos=10%><#C49E78>LunarFauxed
 <pos=10%><#8F00FF>MidnightExlipse
@@ -14,6 +13,7 @@
 <#0000FF>EXTRA FLEXIBLE - TIER 2
 <pos=10%>Archaios
 <pos=10%>Autumn-Lilac
+<pos=10%>AzinTheWizard
 <pos=10%>FuwaXFuwa_
 <pos=10%>Giautum
 <pos=10%>Inkblitz

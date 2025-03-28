@@ -202,7 +202,7 @@
         "OnMatDisplayName": "AzinTheWizard",
         "MatColor": "#79AA9FFF",
         "IconColor": "#79AA9FFF",
-        "HasTextureSupport": true,
+        "HasTextureSupport": false,
         "HasColorSupport": true,
         "HasAdditionalColorSupport": true,
         "matTexture": 10,
