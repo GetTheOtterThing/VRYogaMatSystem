@@ -352,9 +352,9 @@
         "SecondarymatTexture": 11,
     },
     {
-        "DisplayName": "Jespe_zee",
-        "OnMatDisplayName": "Jespe_zee",
-        "MatColor": "#355E3B",
+        "DisplayName": "Zespe_",
+        "OnMatDisplayName": "Zespe_",
+        "MatColor": "#006E10",
         "IconColor": "#87CEEB",
         "HasTextureSupport": false,
         "HasColorSupport": true,
