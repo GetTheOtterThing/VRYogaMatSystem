@@ -156,8 +156,8 @@
     {
         "DisplayName": "Whias",
         "OnMatDisplayName": "Whias",
-        "MatColor": "#79AA9FFF",
-        "IconColor": "#79AA9FFF",
+        "MatColor": "#00D5D5",
+        "IconColor": "#FFFFFF",
         "HasTextureSupport": false,
         "HasColorSupport": true,
         "HasAdditionalColorSupport": true,
