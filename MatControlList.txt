@@ -99,8 +99,8 @@
         "SecondarymatTexture": 11,
     },
     {
-        "DisplayName": "Placeholder",
-        "OnMatDisplayName": "Placeholder",
+        "DisplayName": "Frosty314",
+        "OnMatDisplayName": "Frosty314",
         "MatColor": "#79AA9FFF",
         "IconColor": "#79AA9FFF",
         "HasTextureSupport": true,
