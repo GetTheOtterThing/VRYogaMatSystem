@@ -79,8 +79,8 @@
     {
         "DisplayName": "AcE Krystal",
         "OnMatDisplayName": "AcE Krystal",
-        "MatColor": "#79AA9FFF",
-        "IconColor": "#79AA9FFF",
+        "MatColor": "#23007A",
+        "IconColor": "#D6E771",
         "HasTextureSupport": false,
         "HasColorSupport": true,
         "HasAdditionalColorSupport": true,
