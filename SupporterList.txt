@@ -21,6 +21,7 @@
 <pos=10%>Giautum
 <pos=10%>Inkblitz
 <pos=10%>★ Kima ★
+<pos=10%>Kiphea
 <pos=10%>Sirdeadduke
 <pos=105>TheFoodMan52
 <pos=10%>Whias
