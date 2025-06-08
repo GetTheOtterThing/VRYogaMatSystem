@@ -121,8 +121,8 @@
         "SecondarymatTexture": 11,
     },
     {
-        "DisplayName": "Placeholder",
-        "OnMatDisplayName": "Placeholder",
+        "DisplayName": "Corvus Faolain",
+        "OnMatDisplayName": "Corvus Faolain",
         "MatColor": "#79AA9FFF",
         "IconColor": "#79AA9FFF",
         "HasTextureSupport": true,

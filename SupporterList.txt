@@ -2,6 +2,7 @@
 <size=180%>KO-FI.COM/VRYOGA
 <size=150%><#9235E5><u><b>SUBSCRIBERS</b></u>
 <size=120%><#FFFF00>ONE WITH THE FLOOR - TIER 3
+<pos=10%><#DC143C>Corvus Faolain
 <pos=10%><#652FA9>DiriOftheWind
 <pos=10%><#4F7124>Kamare
 <pos=10%><#C49E78>LunarFauxed
@@ -37,8 +38,8 @@
 <pos=10%><#0000FF>T<#FFA500>r<#0000FF>a<#FFA500>a<#0000FF>k<#FFA500>k<#0000FF>i
 <#FFFFFF><size=75%><pos=10%>Above Or Beyond . Atoc . Beowulf
 <pos=10%>Chardora . ChibityIcee
-<pos=10%>Corvus Faolain . Drolgurd
-<pos=10%>Endasil . Fang Avante . fluffy ΘωΘ
+<pos=10%>Drolgurd . Endasil
+<pos=10%>Fang Avante . fluffy ΘωΘ
 <pos=10%>Hella_Faith . Ivy_B13 . Jay30
 <pos=10%>Kazukaru . LEUCi5 . Lycan Leslie
 <pos=10%>Mythology . RJ_Kon . Robokitsune
