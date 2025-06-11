@@ -24,7 +24,8 @@
 <pos=10%>★ Kima ★
 <pos=10%>Kiphea
 <pos=10%>Sirdeadduke
-<pos=105>TheFoodMan52
+<pos=10%>TheFoodMan52
+<pos=10%>Vyna
 <pos=10%>Whias
 <#00FF00>STUDENTS - TIER 1
 <pos=10%>Aldrinor
