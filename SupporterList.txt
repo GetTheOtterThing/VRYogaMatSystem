@@ -30,6 +30,7 @@
 <#00FF00>STUDENTS - TIER 1
 <pos=10%>Aldrinor
 <pos=10%>Ammy Star
+<pos=10%>DrakeMOhkami
 <pos=10%>Hugo Sigil
 <pos=10%>Jespe_zee
 <pos=10%>JustJaime
