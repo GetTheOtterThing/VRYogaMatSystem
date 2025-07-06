@@ -7,6 +7,7 @@
 <pos=10%><#4F7124>Kamare
 <pos=10%><#C49E78>LunarFauxed
 <pos=10%><#0D98BA>Frosty314
+<pos=10%><#87CEEB>Marzéd
 <pos=10%><#8F00FF>MidnightExlipse
 <pos=10%><#8F00FF>Nocteel
 <pos=10%><#800080>Royaltyǃ
