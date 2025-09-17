@@ -10,6 +10,7 @@
 <pos=10%><#87CEEB>Marzéd
 <pos=10%><#8F00FF>MidnightExlipse
 <pos=10%><#8F00FF>Nocteel
+<pos=10%><#DAA520>Phyrebird
 <pos=10%><#800080>Royaltyǃ
 <pos=10%><#DAA520>RyeBreadDragon
 <pos=10%><#87CEEB>TeaVirus
@@ -17,7 +18,6 @@
 <#0000FF>EXTRA FLEXIBLE - TIER 2
 <pos=10%>AcE Krystal
 <pos=10%>Archaios
-<pos=10%>Autumn-Lilac
 <pos=10%>AzinTheWizard
 <pos=10%>Cubba
 <pos=10%>FuwaXFuwa_
@@ -36,12 +36,11 @@
 <pos=10%>Hugo Sigil
 <pos=10%>Jespe_zee
 <pos=10%>JustJaime
-<pos=10%>Phyrebird
 <pos=10%>TummyTime
 <size=120%><u><b>DONORS</b></u>
 <pos=10%><#0000FF>T<#FFA500>r<#0000FF>a<#FFA500>a<#0000FF>k<#FFA500>k<#0000FF>i
-<#FFFFFF><size=75%><pos=10%>Above Or Beyond . Atoc . Beowulf
-<pos=10%>Chardora . ChibityIcee
+<#FFFFFF><size=75%><pos=10%>Above Or Beyond . Atoc . Autumn-Lilac
+<pos=10%>Beowulf . Chardora . ChibityIcee
 <pos=10%>Drolgurd . Endasil
 <pos=10%>Fang Avante . fluffy ΘωΘ
 <pos=10%>Hella_Faith . Ivy_B13 . Jay30
