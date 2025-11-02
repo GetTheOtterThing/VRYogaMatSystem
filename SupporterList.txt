@@ -23,7 +23,6 @@
 <pos=10%>FuwaXFuwa_
 <pos=10%>Giautum
 <pos=10%>Inkblitz
-<pos=10%>★ Kima ★
 <pos=10%>Kiphea
 <pos=10%>Sirdeadduke
 <pos=10%>TheFoodMan52
@@ -43,7 +42,7 @@
 <pos=10%>Beowulf . Chardora . ChibityIcee
 <pos=10%>Drolgurd . Endasil
 <pos=10%>Fang Avante . fluffy ΘωΘ
-<pos=10%>Hella_Faith . Ivy_B13 . Jay30
+<pos=10%>Hella_Faith . Ivy_B13 . Jay30 . ★ Kima ★
 <pos=10%>Kazukaru . LEUCi5 . Lycan Leslie
 <pos=10%>Mythology . RJ_Kon . Robokitsune
 <pos=10%>shepherdsnow . SleeperNarwahl . TacoTrucker
