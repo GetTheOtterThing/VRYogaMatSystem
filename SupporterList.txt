@@ -8,43 +8,37 @@
 <pos=10%><#C49E78>LunarFauxed
 <pos=10%><#0D98BA>Frosty314
 <pos=10%><#87CEEB>Marzéd
-<pos=10%><#8F00FF>MidnightExlipse
 <pos=10%><#8F00FF>Nocteel
 <pos=10%><#DAA520>Phyrebird
 <pos=10%><#800080>Royaltyǃ
 <pos=10%><#DAA520>RyeBreadDragon
+<pos=10%><#C49E78>Sam_Nardoragon
 <pos=10%><#87CEEB>TeaVirus
 <pos=10%><#8B0000>Vawkis
 <#0000FF>EXTRA FLEXIBLE - TIER 2
 <pos=10%>AcE Krystal
 <pos=10%>Archaios
 <pos=10%>AzinTheWizard
-<pos=10%>Cubba
-<pos=10%>FuwaXFuwa_
 <pos=10%>Giautum
 <pos=10%>Inkblitz
-<pos=10%>Kiphea
 <pos=10%>Sirdeadduke
 <pos=10%>TheFoodMan52
-<pos=10%>Vyna
-<pos=10%>Whias
 <#00FF00>STUDENTS - TIER 1
-<pos=10%>Aldrinor
-<pos=10%>Ammy Star
 <pos=10%>DrakeMOhkami
 <pos=10%>Hugo Sigil
 <pos=10%>Jespe_zee
 <pos=10%>JustJaime
+<pos>=10%Sereigon
 <pos=10%>TummyTime
 <size=120%><u><b>DONORS</b></u>
 <pos=10%><#0000FF>T<#FFA500>r<#0000FF>a<#FFA500>a<#0000FF>k<#FFA500>k<#0000FF>i
-<#FFFFFF><size=75%><pos=10%>Above Or Beyond . Atoc . Autumn-Lilac
-<pos=10%>Beowulf . Chardora . ChibityIcee
+<#FFFFFF><size=60%><pos=10%>Above Or Beyond . Aldrinor . Ammy Star . Atoc . Autumn-Lilac
+<pos=10%>Beowulf . Chardora . ChibityIcee . Cubba
 <pos=10%>Drolgurd . Endasil
-<pos=10%>Fang Avante . fluffy ΘωΘ
-<pos=10%>Hella_Faith . Ivy_B13 . Jay30 . ★ Kima ★
-<pos=10%>Kazukaru . LEUCi5 . Lycan Leslie
-<pos=10%>Mythology . RJ_Kon . Robokitsune
+<pos=10%>Fang Avante . fluffy ΘωΘ . FuwaXFuwa_
+<pos=10%>Hella_Faith . Ivy_B13 . Jay30
+<pos=10%>Kazukaru. ★ Kima ★ . Kiphea . LEUCi5 . Lycan Leslie
+<pos=10%>MidnightExlipse . Mythology . RJ_Kon . Robokitsune
 <pos=10%>shepherdsnow . SleeperNarwahl . TacoTrucker
-<pos=10%>UnholyLily . uppermgt
-<pos=10%>WyldWyn . YourFavFem . Z_Teal
+<pos=10%>UnholyLily . uppermgt . Vyna
+<pos=10%>Whias . WyldWyn . YourFavFem . Z_Teal
