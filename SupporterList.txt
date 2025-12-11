@@ -28,7 +28,7 @@
 <pos=10%>Hugo Sigil
 <pos=10%>Jespe_zee
 <pos=10%>JustJaime
-<pos>=10%>Sereigon
+<pos=10%>Sereigon
 <pos=10%>TummyTime
 <size=120%><u><b>DONORS</b></u>
 <pos=10%><#0000FF>T<#FFA500>r<#0000FF>a<#FFA500>a<#0000FF>k<#FFA500>k<#0000FF>i
