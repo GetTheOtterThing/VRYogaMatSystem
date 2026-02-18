@@ -17,6 +17,7 @@
 <pos=10%>AcE Krystal
 <pos=10%>Archaios
 <pos=10%>Carnipo
+<pos=10%>Eljas
 <pos=10%>Giautum
 <pos=10%>Inkblitz
 <pos=10%>Sirdeadduke

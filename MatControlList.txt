@@ -143,8 +143,8 @@
         "SecondarymatTexture": 11,
     },
     {
-        "DisplayName": "Placeholder",
-        "OnMatDisplayName": "Placeholder",
+        "DisplayName": "Eljas",
+        "OnMatDisplayName": "Eljas",
         "MatColor": "#79AA9FFF",
         "IconColor": "#79AA9FFF",
         "HasTextureSupport": false,
