@@ -37,6 +37,6 @@
 <pos=10%>Hella_Faith . Ivy_B13 . Jay30 . Jespe_zee
 <pos=10%>Kamare . Kazukaru . ★ Kima ★ . Kiphea . LEUCi5 . LunarFauxed . Lycan Leslie . LycheeN00dle
 <pos=10%>MidnightExlipse . Mythology . RJ_Kon . Robokitsune
-<pos=10%>Sam_Nardoragon . shepherdsnow . SleeperNarwahl . TacoTrucker
+<pos=10%>Sam_Nardoragon . shepherdsnow . SleeperNarwahl . Scrunk . TacoTrucker
 <pos=10%>UnholyLily . uppermgt . Vyna
 <pos=10%>Whias . WyldWyn . YourFavFem . Z_Teal
