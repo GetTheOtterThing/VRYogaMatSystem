@@ -14,29 +14,27 @@
 <#0000FF>EXTRA FLEXIBLE - TIER 2
 <pos=10%>AcE Krystal
 <pos=10%>Archaios
-<pos=10%>Carnipo
 <pos=10%>Eljas
 <pos=10%>Giautum
 <pos=10%>Inkblitz
-<pos=10%>Sirdeadduke
 <pos=10%>TheFoodMan52
 <#00FF00>STUDENTS - TIER 1
 <pos=10%>Ammy Star
 <pos=10%>DrakeMOhkami
 <pos=10%>Hugo Sigil
-<pos=10%>JustJaime
 <pos=10%>Sereigon
+<pos=10%>ShredFIN
 <pos=10%>TummyTime
 <pos=10%>white-ryce
 <size=120%><u><b>DONORS</b></u>
 <pos=10%><#0000FF>T<#FFA500>r<#0000FF>a<#FFA500>a<#0000FF>k<#FFA500>k<#0000FF>i
 <#FFFFFF><size=50%><pos=10%>Above Or Beyond . Aldrinor . Atoc . Autumn-Lilac . AzinTheWizard
-<pos=10%>Beowulf . Chardora . ChibityIcee . Cubba
+<pos=10%>Beowulf . Carnipo . Chardora . ChibityIcee . Cubba
 <pos=10%>Drolgurd . Endasil
 <pos=10%>Fang Avante . fluffy ΘωΘ . FuwaXFuwa_
 <pos=10%>Hella_Faith . Ivy_B13 . Jay30 . Jespe_zee
 <pos=10%>Kamare . Kazukaru . ★ Kima ★ . Kiphea . LEUCi5 . LunarFauxed . Lycan Leslie . LycheeN00dle
 <pos=10%>MidnightExlipse . Mythology . RJ_Kon . Robokitsune
-<pos=10%>Sam_Nardoragon . shepherdsnow . SleeperNarwahl . Scrunk . TacoTrucker
+<pos=10%>Sam_Nardoragon . shepherdsnow . Sirdeadduke . SleeperNarwahl . Scrunk . TacoTrucker
 <pos=10%>UnholyLily . uppermgt . Vyna
 <pos=10%>Whias . WyldWyn . YourFavFem . Z_Teal

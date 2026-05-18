@@ -1,7 +1,7 @@
 [
     {
-        "DisplayName": "JustJaime",
-        "OnMatDisplayName": "JustJaime",
+        "DisplayName": "ShredFIN",
+        "OnMatDisplayName": "ShredFIN",
         "MatColor": "#EEBFFF",
         "IconColor": "#FFFFFF",
         "HasTextureSupport": false,
@@ -110,8 +110,8 @@
         "SecondarymatTexture": 11,
     },
     {
-        "DisplayName": "Carnipo",
-        "OnMatDisplayName": "Carnipo",
+        "DisplayName": "Placeholder",
+        "OnMatDisplayName": "Placeholder",
         "MatColor": "#79AA9FFF",
         "IconColor": "#79AA9FFF",
         "HasTextureSupport": false,
@@ -165,8 +165,8 @@
         "SecondarymatTexture": 11,
     },
     {
-        "DisplayName": "sirdeadduke",
-        "OnMatDisplayName": "sirdeadduke",
+        "DisplayName": "Placeholder",
+        "OnMatDisplayName": "Placeholder",
         "MatColor": "#79AA9FFF",
         "IconColor": "#79AA9FFF",
         "HasTextureSupport": false,
