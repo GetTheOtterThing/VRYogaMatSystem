@@ -23,6 +23,7 @@
 <pos=10%>Ammy Star
 <pos=10%>DrakeMOhkami
 <pos=10%>Hugo Sigil
+<pos=10%>Jongrave
 <pos=10%>Sereigon
 <pos=10%>ShredFIN
 <pos=10%>TummyTime
