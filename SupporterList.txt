@@ -5,6 +5,7 @@
 <pos=10%><#C8A2C8>Autumn-Lilac
 <pos=10%><#E34324>Beeshou
 <pos=10%><#DC143C>Corvus Faolain
+<pos=10%><#800080>Cottontail091
 <pos=10%><#0D98BA>Frosty314
 <pos=10%><#87CEEB>Marzéd
 <pos=10%><#8F00FF>Nocteel
