@@ -7,6 +7,7 @@
 <pos=10%><#DC143C>Corvus Faolain
 <pos=10%><#800080>Cottontail091
 <pos=10%><#0D98BA>Frosty314
+<pos=10%><#FFFFFF>Iron clad
 <pos=10%><#87CEEB>Marzéd
 <pos=10%><#8F00FF>Nocteel
 <pos=10%><#DAA520>Phyrebird
@@ -36,7 +37,7 @@
 <pos=10%>Beowulf . Carnipo . Chardora . ChibityIcee . cmdrbob . Cubba
 <pos=10%>Drolgurd . Endasil
 <pos=10%>Fang Avante . fluffy ΘωΘ . FuwaXFuwa_
-<pos=10%>Hella_Faith . Ivy_B13 . Jay30 . Jespe_zee
+<pos=10%>Hella_Faith . Ivy_B13 . Jay30 . Jespe_zee . Jomb
 <pos=10%>Kamare . Kazukaru . ★ Kima ★ . Kiphea . LEUCi5 . LunarFauxed . Lycan Leslie . LycheeN00dle
 <pos=10%>MidnightExlipse . Mythology . RJ_Kon . Robokitsune
 <pos=10%>Sam_Nardoragon . shepherdsnow . Sirdeadduke . SleeperNarwahl . Scrunk . TacoTrucker
