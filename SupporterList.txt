@@ -8,7 +8,7 @@
 <pos=10%><#DC143C>Corvus Faolain
 <pos=10%><#800080>Cottontail091
 <pos=10%><#0D98BA>Frosty314
-<pos=10%><#FFFFFF>Iron clad
+<pos=10%><#FFFFFF>Karboom
 <pos=10%><#87CEEB>Marzéd
 <pos=10%><#8F00FF>Nocteel
 <pos=10%><#DAA520>Phyrebird
