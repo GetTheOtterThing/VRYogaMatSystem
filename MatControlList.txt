@@ -143,8 +143,8 @@
         "SecondarymatTexture": 11,
     },
     {
-        "DisplayName": "Eljas",
-        "OnMatDisplayName": "Eljas",
+        "DisplayName": "Placeholder",
+        "OnMatDisplayName": "Placeholder",
         "MatColor": "#79AA9FFF",
         "IconColor": "#79AA9FFF",
         "HasTextureSupport": false,
@@ -264,8 +264,8 @@
         "SecondarymatTexture": 11,
     },
     {
-        "DisplayName": "Placeholder",
-        "OnMatDisplayName": "Placeholder",
+        "DisplayName": "AlvelonHoot",
+        "OnMatDisplayName": "AlvelonHoot",
         "MatColor": "#79AA9FFF",
         "IconColor": "#79AA9FFF",
         "HasTextureSupport": false,

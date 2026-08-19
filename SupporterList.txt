@@ -18,8 +18,8 @@
 <pos=10%><#8B0000>Vawkis
 <#0000FF>EXTRA FLEXIBLE - TIER 2
 <pos=10%>AcE Krystal
+<pos=10%>AlvelonHoot
 <pos=10%>Archaios
-<pos=10%>Eljas
 <pos=10%>Giautum
 <pos=10%>Inkblitz
 <pos=10%>TheFoodMan52
@@ -36,7 +36,7 @@
 <pos=10%><#0000FF>T<#FFA500>r<#0000FF>a<#FFA500>a<#0000FF>k<#FFA500>k<#0000FF>i
 <#FFFFFF><size=50%><pos=10%>Above Or Beyond . Aldrinor . Atoc . Autumn-Lilac . AzinTheWizard
 <pos=10%>Beowulf . Carnipo . Chardora . ChibityIcee . cmdrbob . Cubba
-<pos=10%>Drolgurd . Endasil
+<pos=10%>Drolgurd . Eljas . Endasil
 <pos=10%>Fang Avante . fluffy ΘωΘ . FuwaXFuwa_
 <pos=10%>Hella_Faith . Ivy_B13 . Jay30 . Jespe_zee . Jomb
 <pos=10%>Kamare . Kazukaru . ★ Kima ★ . Kiphea . LEUCi5 . LunarFauxed . Lycan Leslie . LycheeN00dle
