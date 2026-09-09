@@ -22,6 +22,8 @@
 <pos=10%>Archaios
 <pos=10%>Giautum
 <pos=10%>Inkblitz
+<pos=10%>Shockwave750
+<pos=10%>Sondalyn
 <pos=10%>TheFoodMan52
 <#00FF00>STUDENTS - TIER 1
 <pos=10%>Ammy Star
