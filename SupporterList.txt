@@ -2,7 +2,6 @@
 <size=180%>KO-FI.COM/VRYOGA
 <size=150%><#9235E5><u><b>SUBSCRIBERS</b></u>
 <size=120%><#FFFF00>ONE WITH THE FLOOR - TIER 3
-<pos=10%><#FFFFFF>Atlas Cloud
 <pos=10%><#C8A2C8>Autumn-Lilac
 <pos=10%><#E34324>Beeshou
 <pos=10%><#DC143C>Corvus Faolain
@@ -27,13 +26,13 @@
 <pos=10%>TheFoodMan52
 <#00FF00>STUDENTS - TIER 1
 <pos=10%>Ammy Star
+<pos=10%>Atlas Cloud
 <pos=10%>Bobby Jetson
 <pos=10%>DrakeMOhkami
 <pos=10%>Hugo Sigil
 <pos=10%>Jongrave
 <pos=10%>Sereigon
 <pos=10%>ShredFIN
-<pos=10%>TummyTime
 <pos=10%>white-ryce
 <size=120%><u><b>DONORS</b></u>
 <pos=10%><#0000FF>T<#FFA500>r<#0000FF>a<#FFA500>a<#0000FF>k<#FFA500>k<#0000FF>i
@@ -44,6 +43,6 @@
 <pos=10%>Hella_Faith . Ivy_B13 . Jay30 . Jespe_zee . Jomb
 <pos=10%>Kamare . Kazukaru . ★ Kima ★ . Kiphea . LEUCi5 . LunarFauxed . Lycan Leslie . LycheeN00dle
 <pos=10%>MidnightExlipse . Mythology . RJ_Kon . Robokitsune
-<pos=10%>Sam_Nardoragon . shepherdsnow . Sirdeadduke . SleeperNarwahl . Scrunk . TacoTrucker
+<pos=10%>Sam_Nardoragon . shepherdsnow . Sirdeadduke . SleeperNarwahl . Scrunk . TacoTrucker . TummyTime
 <pos=10%>UnholyLily . uppermgt . Vyna
 <pos=10%>Whias . WyldWyn . YourFavFem . Z_Teal
