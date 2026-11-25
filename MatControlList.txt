@@ -44,8 +44,8 @@
         "SecondarymatTexture": 11,
     },
     {
-        "DisplayName": "Placeholder",
-        "OnMatDisplayName": "Placeholder",
+        "DisplayName": "Aug005",
+        "OnMatDisplayName": "Aug005",
         "MatColor": "#79AA9FFF",
         "IconColor": "#79AA9FFF",
         "HasTextureSupport": false,
